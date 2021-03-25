@@ -12,7 +12,7 @@ pip install pygame
 
 Luego para ejecutar el programa
 ```
-python3 snake.py
+python juego.py
 ```
 
 ### **Prueba del juego**
