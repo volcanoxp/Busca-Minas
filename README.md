@@ -3,7 +3,7 @@
 Este programa se hizo usando python3, en concreto el paquete pygame.
 
 ### **Ejecución**
-Par comenzar a jugar con snake, primero debes tener instalado python 3.7+.
+Para comenzar a jugar con busca minas, primero debes tener instalado python 3.7+.
 
 Luego instalar el paquete pygame
 ```
